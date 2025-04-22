@@ -2,15 +2,9 @@
 Hi! My name is Martim Gomes. Currently, I'm studying Computer Engineering at Universidade de Aveiro.
 ## Links
 [<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:martimperalta7@gmail.com)
-
-
 [<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/outlook-auto.svg" width="40"/>]
 (mailto:seuemail@outlook.com)
-
-
 [<img src="https://skillicons.dev/icons?i=github" width="40"/>](https://github.com/martimggomes)
-
-
 [<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/seu-usuario)
 ## Stats
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=martimggomes&layout=compact&theme=radical)
