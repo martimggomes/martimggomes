@@ -1,7 +1,7 @@
 # About Me
 Hi! My name is Martim Gomes. Currently, I'm studying Computer Engineering at Universidade de Aveiro.
 
-🌐 **Check out my Portfolio:** [martimggomes.github.io](https://martimggomes.github.io)
+**Check out my Portfolio:** [martimggomes.github.io](https://martimggomes.github.io)
 
 ## Links
 [<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:martimperalta7@gmail.com)
